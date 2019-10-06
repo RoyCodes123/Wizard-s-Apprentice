@@ -1,0 +1,7 @@
+C:\Users\Custom\source\repos\bigNum\bigNum\bin\Debug\bigNum.exe.config
+C:\Users\Custom\source\repos\bigNum\bigNum\bin\Debug\bigNum.exe
+C:\Users\Custom\source\repos\bigNum\bigNum\bin\Debug\bigNum.pdb
+C:\Users\Custom\source\repos\bigNum\bigNum\obj\Debug\bigNum.csprojAssemblyReference.cache
+C:\Users\Custom\source\repos\bigNum\bigNum\obj\Debug\bigNum.csproj.CoreCompileInputs.cache
+C:\Users\Custom\source\repos\bigNum\bigNum\obj\Debug\bigNum.exe
+C:\Users\Custom\source\repos\bigNum\bigNum\obj\Debug\bigNum.pdb
